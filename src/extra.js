@@ -12,6 +12,5 @@
     <div className="card-read">Read More</div>
 </div>
 <div className="card-image">
-  {/* <img src="images/allupakoida.jpg"></img> */}
 </div>
 </div>

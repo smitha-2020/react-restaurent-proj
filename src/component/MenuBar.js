@@ -1,9 +1,6 @@
 import React from 'react'
 
 const MenuBar = ({uniqueCategory,getData,orderedItem,setOrderedItem}) => {
-  //const totalOrders = JSON.parse(localStorage.get("totalOrders"));
-  //console.log("total Orders" + totalOrders)
-  //console.log(orderedItem);
   const removeSel = (item) => {
     const orderedItemFiltered = orderedItem.filter((eleItem)=>{ return eleItem.id!==item });
     

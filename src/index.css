@@ -17,23 +17,11 @@
 ul.menuItems-main{
   max-height: 57px;
   position:relative;
- 
-  
 }
-/* ul.ordered-item{
-  position:absolute;
-  display:block;
-  cursor:pointer;
-} */
 ul.menuItems-main li{
   display:inline-block;
-  /*padding:30px;*/
- 
   cursor: pointer;
-  
 }
-
-
 
 ul ul.ordered-item{
   position:absolute;
