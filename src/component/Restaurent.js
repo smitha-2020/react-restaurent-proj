@@ -27,7 +27,6 @@ const Restaurent = () => {
      })
     setSelmenuList(List)
   }
-  console.log(selmenuList);
   return (
     <>
       <div className="menu">
