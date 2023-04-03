@@ -8,4 +8,5 @@ One of the intial projects which i worked on as a hobby project to familiarize w
 
 Netlify link to the project
 
-- [Link](https://magnificent-kringle-7eb705.netlify.app/) - LINK TO NETLIFY
+- [Link](https://magnificent-kringle-7eb705.netlify.app/) - LINK TO NETLIFYls
+
