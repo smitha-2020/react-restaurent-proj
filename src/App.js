@@ -3,12 +3,10 @@ import Restaurent from "./component/Restaurent";
 
 const App = () => {
   return (
-<>
-<div>
-  <Restaurent/>
-</div>
-</>
+    <div className="app-shell">
+      <Restaurent />
+    </div>
   );
-}
+};
 
 export default App;

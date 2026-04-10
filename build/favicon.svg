@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="7" fill="#9f1239"/>
+  <!-- Cloche handle -->
+  <circle cx="16" cy="9" r="2.25" fill="#f5f3ef"/>
+  <!-- Dome -->
+  <path
+    fill="#f5f3ef"
+    d="M7 17.5C7 12.8 11.03 9 16 9s9 3.8 9 8.5V20H7v-2.5z"
+  />
+  <!-- Plate -->
+  <ellipse cx="16" cy="21.5" rx="10" ry="2.25" fill="#f5f3ef"/>
+</svg>
