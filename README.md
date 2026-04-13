@@ -9,5 +9,5 @@ Docker Image Added.
 
 Netlify link to the project
 
-- [Link](https://magnificent-kringle-7eb705.netlify.app/) - LINK TO NETLIFYls
+- [Link](https://remarkable-lokum-9d4a13.netlify.app/) - LINK TO NETLIFYls
 
